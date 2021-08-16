@@ -74,9 +74,11 @@ experiences:
       details: |
         ...
       responsibilities: |
-        -	....
+        -	CI/CD
+        - Dev-Ops services
       technologies: |
-        -	....
+        -	Microsoft Azure
+        - Kuberneties
     - role: Site Reliability & DevOps For Zalopay 
       time: 6-2020 - 07/2021
       company: VNG
