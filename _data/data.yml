@@ -72,13 +72,15 @@ experiences:
       time: 08-2021 - Present
       company: Home Credit
       details: |
-        ...
+        Working as DevOps and co-working with order team to intergrade together, keep it stable. 
       responsibilities: |
         -	CI/CD
         - Dev-Ops services
+        - Communication as DevOps
       technologies: |
-        -	Microsoft Azure
-        - Kuberneties
+        -	Microsoft Azure (Alert, Postgresql, Oracle Database, WAF,...)
+        - Kuberneties (AKS)
+        - Python
     - role: Site Reliability & DevOps For Zalopay 
       time: 6-2020 - 07/2021
       company: VNG
