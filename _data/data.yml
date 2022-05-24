@@ -72,15 +72,18 @@ experiences:
       time: 08-2021 - Present
       company: Home Credit
       details: |
-        Working as DevOps and co-working with order team to intergrade together, keep it stable. 
+        They are a finance company. HomeX is core system provide documentation service and disbursement service. My responsibilities is keep it safe and stable, contributing the CI/CD and working flow that is survival of Sale, Remote Sale in particular and Home Credit in general.
       responsibilities: |
         -	CI/CD
-        - Dev-Ops services
-        - Communication as DevOps
+        -	Dev-Ops services
+        -	Communication as DevOps
+        -	Build the deployment system
+        -	Improve CI/CD work flow
+
       technologies: |
-        -	Microsoft Azure (Alert, Postgresql, Oracle Database, WAF,...)
-        - Kuberneties (AKS)
-        - Python
+        -	Microsoft Azure (Alert, Postgresql, Oracle Database, WAF,…)
+        -	Kuberneties (AKS)
+        -	Python/Golang for Tooling
     - role: Site Reliability & DevOps For Zalopay 
       time: 6-2020 - 07/2021
       company: VNG
