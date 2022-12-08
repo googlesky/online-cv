@@ -69,7 +69,28 @@ education:
         - PO5: Develop communication skills, presentations skills, teamwork skills, foreign language competence, professional and creative working style, and entrepreneurship to meet the requirements of globalization and lifelong learning.
 experiences:
     - role: DevOps
-      time: 08-2021 - Present
+      time: 07-2021 - 12-2022
+      company: Parcel Perform
+      details: |
+        Parcel Perform is company working in logicstic. Parcel Perform is the leading delivery experience platform. It enables modern e-commerce enterprises to create unique end-to-end customer journeys and optimize logistics operations with powerful data integrations, parcel tracking, delivery notifications and logistics performance reports in real-time.
+      responsibilities: |
+        -	CI/CD
+        - Dev-Ops services
+        - Communication as DevOps
+        - Build the deployment system
+        - Optimize and fix bug
+        - Blue team
+
+      technologies: |
+        - AWS (RDS, EC2, ASG, EKS, S3, Round53, IAM, AMI, MSK, ElasticCache, Security Hub...)
+        - Gitlab-CI / GitOps
+        - Bash-script
+        - Terraform
+        - Helm/Helmfile
+        - Spark/Flink
+        - Prowler/Trivy/Falco/OPA/Docker Sec
+    - role: DevOps
+      time: 08-2021 - 07-2022
       company: Home Credit
       details: |
         They are a finance company. HomeX is core system provide documentation service and disbursement service. My responsibilities is keep it safe and stable, contributing the CI/CD and working flow that is survival of Sale, Remote Sale in particular and Home Credit in general.
